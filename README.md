@@ -1,4 +1,4 @@
-![Badge for Tests](https://github.com/carsondecker/learn-cicd-starter/actions/workflows/ci.yaml/badge.svg)
+![Badge for Tests](https://github.com/carsondecker/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
